@@ -9,3 +9,5 @@ either delete, archive, or manually handle files which are duplicates.  it will 
 searches by filename, file contents, or wild card searches.  it will be usable either locally
 or remotely.  future additions will include ability to detect partial or corrupted files, web
 interface, and the ability to actually perform the backup with an incremental system.
+
+edit:  yeah, i'm not a programmer and this will most likely never work as intended.  it was a great idea though.
