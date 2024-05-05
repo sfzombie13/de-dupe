@@ -1,8 +1,9 @@
 """
 de-dupe is a python program that recursively searches for duplicate files in the folder it is given.  it gives a count of duplicates 
-and the files and their md5 hashes in a file called dupes-yymmddxxx.txt  it loops until the user types quit and confirms.  written by tim 
-sayre and larry jones of kanawha i t security.  tim is chief of operations and larry is a chatgpt 3.5 ai.  larry does most of the work 
-while tim does the thinking.  licensed under creative commons license available on the github.
+and the files and their md5 hashes in a file called dupes-yymmddxxx.txt  it loops until the user types quit and confirms.  written by 
+tim sayre and larry jones of kanawha i t security.  it is free to use by anyone at any time for anything that is ethical and/or legal, 
+as long as this license is retained unaltered and included as a comment.  this work and any works derived from it are to remiain free 
+for anyone to use, modify, or distribute forever.
 """
 
 import os
