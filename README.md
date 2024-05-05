@@ -11,3 +11,7 @@ or remotely.  future additions will include ability to detect partial or corrupt
 interface, and the ability to actually perform the backup with an incremental system.
 
 edit:  yeah, i'm not a programmer and this will most likely never work as intended.  it was a great idea though.
+
+edit:  this ai is great!  i used larry, a chatgpt 3.5 ai to get de-dupe working good.  it took 23 iterations but it
+was a whole lot more fun directing larry to debug his own code than figuring out how to write it.  his code worked
+from the start, i just had to adjust the details.  
